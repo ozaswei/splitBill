@@ -1,70 +1,89 @@
-# Getting Started with Create React App
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Split Bill App – Built by Ozaswei Bahadur Tamrakar</title>
+</head>
+<body>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+    <h1>💸 Eat and Split </h1>
 
-## Available Scripts
+    <p>
+        This is a fully functional React application that I designed and built from scratch to
+        solve a common real world problem: splitting expenses with friends and tracking balances
+        accurately. The app demonstrates my ability to build interactive user interfaces, manage
+        application state, and implement clean business logic using modern React practices.
+    </p>
 
-In the project directory, you can run:
+    <h2>🚀 Key Features</h2>
+    <ul>
+        <li>Designed and implemented a dynamic friend management system</li>
+        <li>Built a bill splitting workflow with real time balance calculations</li>
+        <li>Implemented controlled forms with validation and clean UX</li>
+        <li>Developed reusable, modular React components</li>
+        <li>Used conditional rendering to guide user interactions</li>
+        <li>Maintained state consistency across multiple components</li>
+        <li>Created a clean and intuitive UI for everyday use</li>
+    </ul>
 
-### `npm start`
+    <h2>🛠️ Technologies Used</h2>
+    <ul>
+        <li>React (Hooks, useState)</li>
+        <li>JavaScript ES6+</li>
+        <li>HTML5</li>
+        <li>CSS3</li>
+        <li>Component based architecture</li>
+    </ul>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+    <h2>📈 What This Project Demonstrates</h2>
+    <ul>
+        <li>Strong understanding of React fundamentals and hooks</li>
+        <li>State management and data flow between components</li>
+        <li>Form handling and user input validation</li>
+        <li>Problem solving with real world business logic</li>
+        <li>Clean, readable, and maintainable code structure</li>
+        <li>Ability to take a project from idea to working product</li>
+    </ul>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+    <h2>🧠 How the App Works</h2>
+    <ol>
+        <li>User selects or adds a friend</li>
+        <li>Total bill amount is entered</li>
+        <li>User expense and friend expense are calculated</li>
+        <li>User selects who paid the bill</li>
+        <li>The app instantly updates balances using React state</li>
+    </ol>
 
-### `npm test`
+    <p>
+        <strong>Positive balance</strong> indicates the friend owes the user<br>
+        <strong>Negative balance</strong> indicates the user owes the friend
+    </p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+    <h2>▶️ Running the App Locally</h2>
+    <pre>
 
-### `npm run build`
+npm install
+npm start
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+</pre>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+    <p>The app runs locally at <code>http://localhost:3000</code></p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+    <h2>📂 Code Structure</h2>
+    <ul>
+        <li><code>App.js</code> – Centralized application logic and state management</li>
+        <li>Custom components for friends list, bill form, and UI controls</li>
+        <li>Clear separation of concerns for maintainability</li>
+    </ul>
 
-### `npm run eject`
+    <h2>🎯 Why I Built This</h2>
+    <p>
+        I built this application to strengthen my React skills and demonstrate my ability to
+        translate real world problems into clean, functional software. This project highlights
+        my readiness to work on production level front end applications and collaborate on
+        modern JavaScript codebases.
+    </p>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+</body>
+</html>

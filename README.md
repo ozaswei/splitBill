@@ -1,7 +1,3 @@
-Perfect, Oz. Here is the **same format**, but rewritten to clearly show **you built this app** and make it **resume and portfolio strong**. You can paste this directly as your README.md.
-
----
-
 # 💸 Split Bill App (React)
 
 A React application I designed and built from scratch to help users split expenses with friends and track balances easily. This project demonstrates my ability to build interactive user interfaces, manage shared state, and implement real world business logic using modern React practices.

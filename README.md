@@ -1,4 +1,4 @@
-# 💸 Split Bill App (React)
+# 💸 Split Bill App
 
 A React application I designed and built from scratch to help users split expenses with friends and track balances easily. This project demonstrates my ability to build interactive user interfaces, manage shared state, and implement real world business logic using modern React practices.
 
